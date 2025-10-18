@@ -1,0 +1,10 @@
+2025-10-15 21:00:01, Thread 1, ID 1, {"id":1,"status":"ok","valor":987.65}
+2025-10-15 21:00:01, Thread 2, ID 2, {"id":2,"status":"ok","valor":987.65}
+2025-10-15 21:00:01, Thread 3, ID 3, {"id":3,"status":"ok","valor":987.65}
+2025-10-15 21:00:01, Thread 4, ID 4, {"id":4,"status":"ok","valor":987.65}
+2025-10-15 21:00:01, Thread 5, ID 5, {"id":5,"status":"ok","valor":987.65}
+2025-10-15 21:00:02, Thread 1, ID 6, {"id":6,"status":"ok","valor":987.65}
+2025-10-15 21:00:02, Thread 2, ID 7, {"id":7,"status":"ok","valor":987.65}
+2025-10-15 21:00:02, Thread 3, ID 8, {"id":8,"status":"ok","valor":987.65}
+2025-10-15 21:00:02, Thread 4, ID 9, {"id":9,"status":"ok","valor":987.65}
+2025-10-15 21:00:02, Thread 5, ID 10, {"id":10,"status":"ok","valor":987.65}
